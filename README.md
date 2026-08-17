@@ -16,6 +16,22 @@ Building intelligent systems, scalable applications, and AI-powered products.
 
 </div>
 
+## 🌐 My Portfolio
+
+Explore my interactive developer portfolio to see my:
+
+- 🤖 Machine Learning & AI projects
+- 🌐 Full-Stack applications
+- 📱 Mobile applications
+- 🧠 AI & Generative AI work
+- 🛠️ Technical skillset
+- 🚀 Projects and development journey
+
+<div align="center">
+
+### 🚀 [Visit My Interactive Portfolio](https://shivagamer-dev.github.io/)
+
+</div>
 🧑‍💻 About Me
 
 I'm a Computer Science Engineering student and software developer focused on building intelligent, scalable, and user-centered products.
@@ -292,8 +308,6 @@ Cloud Technologies
 
 </div>
 
-
-## 🌐 My Portfolio
 
 Explore my interactive developer portfolio to see my:
 
