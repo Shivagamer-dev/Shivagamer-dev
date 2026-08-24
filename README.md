@@ -1,38 +1,61 @@
 <div align="center">
-<div align="center">
 
-[![🌐 Visit My Portfolio](https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shivagamer-dev-github-io.vercel.app/)
+<br>
+
+<!-- Animated Typing Header -->
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Shiva+Tyagi+%F0%9F%91%8B;ML%2FAI+Engineer+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%8C%90;Mobile+Developer+%F0%9F%93%B1;Building+Intelligent+Products+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<br><br>
+
+[![🌐 Visit My Portfolio](https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-6366F1?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://shivagamer-dev-github-io.vercel.app/)
+
+<br><br>
+
+# 👋 Hi, I'm Shiva Tyagi
+
+### 💻 CSE Student • ML/AI Engineer • Full-Stack Developer • Mobile Developer
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="100%"/>
+
+### Building intelligent systems, scalable applications, and AI-powered products.
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Shivagamer-dev&label=Profile%20Views&color=6366F1&style=for-the-badge" />
 
 </div>
 
-👋 Hi, I'm Shiva Tyagi
+---
 
-💻 CSE Student • ML/AI Engineer • Full-Stack Developer • Mobile Developer
-
-Building intelligent systems, scalable applications, and AI-powered products.
-
-
-
-
-</div>
-
-## 🌐 My Portfolio
+# 🌐 My Portfolio
 
 Explore my interactive developer portfolio to see my:
 
-- 🤖 Machine Learning & AI projects
-- 🌐 Full-Stack applications
-- 📱 Mobile applications
-- 🧠 AI & Generative AI work
-- 🛠️ Technical skillset
-- 🚀 Projects and development journey
+* 🤖 Machine Learning & AI projects
+* 🌐 Full-Stack applications
+* 📱 Mobile applications
+* 🧠 AI & Generative AI work
+* 🛠️ Technical skillset
+* 🚀 Projects and development journey
 
 <div align="center">
 
 ### 🚀 [Visit My Interactive Portfolio](https://shivagamer-dev-github-io.vercel.app/)
 
+<br>
+
+<a href="https://shivagamer-dev-github-io.vercel.app/">
+<img src="https://img.shields.io/badge/🚀%20EXPLORE%20MY%20PORTFOLIO-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
 </div>
-🧑‍💻 About Me
+
+---
+
+# 🧑‍💻 About Me
 
 I'm a Computer Science Engineering student and software developer focused on building intelligent, scalable, and user-centered products.
 
@@ -40,9 +63,27 @@ My core interests include Machine Learning, Artificial Intelligence, Generative 
 
 I enjoy taking ideas through the complete development cycle:
 
-Concept → Architecture → Development → AI/ML Integration → Testing → Deployment
+<div align="center">
 
-🚀 What I Do
+```text
+💡 Concept
+   ↓
+🏗️ Architecture
+   ↓
+💻 Development
+   ↓
+🤖 AI/ML Integration
+   ↓
+🧪 Testing
+   ↓
+🚀 Deployment
+```
+
+</div>
+
+---
+
+# 🚀 What I Do
 
 🤖 Build Machine Learning and AI solutions
 
@@ -64,31 +105,39 @@ Concept → Architecture → Development → AI/ML Integration → Testing → D
 
 🚀 Turn ideas into working products
 
-🧠 Machine Learning
+---
+
+# 🧠 Machine Learning
 
 I work across the complete Machine Learning lifecycle:
 
-Data Collection
-      ↓
-Data Cleaning
-      ↓
-Exploratory Data Analysis
-      ↓
-Feature Engineering
-      ↓
-Feature Selection
-      ↓
-Model Development
-      ↓
-Model Training
-      ↓
-Hyperparameter Tuning
-      ↓
-Model Evaluation
-      ↓
-Deployment
+<div align="center">
 
-Machine Learning Methods
+```text
+📥 Data Collection
+       ↓
+🧹 Data Cleaning
+       ↓
+🔎 Exploratory Data Analysis
+       ↓
+⚙️ Feature Engineering
+       ↓
+🎯 Feature Selection
+       ↓
+🧠 Model Development
+       ↓
+🏋️ Model Training
+       ↓
+🔧 Hyperparameter Tuning
+       ↓
+📊 Model Evaluation
+       ↓
+🚀 Deployment
+```
+
+</div>
+
+### Machine Learning Methods
 
 Linear Regression
 
@@ -144,11 +193,13 @@ Cross Validation
 
 Hyperparameter Optimization
 
-📊 Model Evaluation
+### 📊 Model Evaluation
 
 Accuracy • Precision • Recall • F1-Score • Specificity • Confusion Matrix • MAE • MSE • RMSE • R² • ROC-AUC
 
-🤖 AI & Generative AI
+---
+
+# 🤖 AI & Generative AI
 
 Generative AI
 
@@ -170,87 +221,131 @@ Intelligent automation
 
 AI-assisted decision systems
 
-🌐 Full-Stack Development
+---
 
-Frontend
+# 🌐 Full-Stack Development
+
+## Frontend
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind" />
 </p>
 
-HTML • CSS • JavaScript • React • Vite • Tailwind CSS
+<div align="center">
 
-Backend
+`HTML` • `CSS` • `JavaScript` • `React` • `Vite` • `Tailwind CSS`
+
+</div>
+
+## Backend
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-Node.js • Express.js • REST APIs
+<div align="center">
 
-📱 Mobile Development
+`Node.js` • `Express.js` • `REST APIs`
+
+</div>
+
+---
+
+# 📱 Mobile Development
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react" />
 </p>
 
-React Native • Expo • REST API Integration • Mobile UI • Authentication • Backend Integration
+<div align="center">
 
-🗄️ Databases
+`React Native` • `Expo` • `REST API Integration` • `Mobile UI` • `Authentication` • `Backend Integration`
+
+</div>
+
+---
+
+# 🗄️ Databases
 
 MongoDB • MongoDB Atlas • MySQL • Firebase
 
-⚙️ Automation & APIs
+---
+
+# ⚙️ Automation & APIs
 
 n8n • REST APIs • Webhooks • API Integrations • OpenAI API • Gemini API
 
-☁️ Tools & Deployment
+---
+
+# ☁️ Tools & Deployment
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel" />
 </p>
 
-Git • GitHub • VS Code • Docker • Vercel • Render
+<div align="center">
 
-💻 Programming Languages
+`Git` • `GitHub` • `VS Code` • `Docker` • `Vercel` • `Render`
+
+</div>
+
+---
+
+# 💻 Programming Languages
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css" />
 </p>
 
-Python • C++ • Java • JavaScript • HTML • CSS
+<div align="center">
 
-📊 Data Science & ML Tools
+`Python` • `C++` • `Java` • `JavaScript` • `HTML` • `CSS`
+
+</div>
+
+---
+
+# 📊 Data Science & ML Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-NumPy • Pandas • Matplotlib • Seaborn • Scikit-learn • XGBoost
+<div align="center">
 
-🔥 Featured Projects
+`NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `Scikit-learn` • `XGBoost`
 
-🤖 DebiasIQ AI
+</div>
+
+---
+
+# 🔥 Featured Projects
+
+## 🤖 DebiasIQ AI
 
 An AI-powered fairness and bias analysis platform designed to identify potential bias in datasets and Machine Learning models.
 
-Focus: Machine Learning • Bias Detection • Fairness Analysis • Explainable AI • Feature Engineering • Data Preprocessing • Model Evaluation • Automation • Full-Stack Development
+**Focus:** Machine Learning • Bias Detection • Fairness Analysis • Explainable AI • Feature Engineering • Data Preprocessing • Model Evaluation • Automation • Full-Stack Development
 
-🏠 House Price Prediction
+---
+
+## 🏠 House Price Prediction
 
 A Machine Learning regression project focused on data preprocessing, exploratory analysis, feature engineering, model training, and evaluation.
 
-Tech: Python • Pandas • Scikit-learn • XGBoost • Machine Learning
+**Tech:** Python • Pandas • Scikit-learn • XGBoost • Machine Learning
 
-🌐 Interactive Developer Portfolio
+---
+
+## 🌐 Interactive Developer Portfolio
 
 An interactive developer portfolio showcasing my technical skills, Machine Learning expertise, projects, AI knowledge, and development journey.
 
 It includes animated sections, project showcases, skills visualization, GitHub integration, responsive design, and interactive visual elements.
 
+---
 
-
-🎯 Currently Exploring
+# 🎯 Currently Exploring
 
 Advanced Machine Learning
 
@@ -276,25 +371,35 @@ Cybersecurity
 
 Cloud Technologies
 
-📈 My Development Approach
+---
 
+# 📈 My Development Approach
+
+<div align="center">
+
+```text
 💡 IDEA
-  ↓
+   ↓
 🧠 RESEARCH
-  ↓
+   ↓
 🏗️ ARCHITECTURE
-  ↓
+   ↓
 💻 DEVELOPMENT
-  ↓
+   ↓
 🤖 AI / ML INTEGRATION
-  ↓
+   ↓
 🧪 TESTING
-  ↓
+   ↓
 🚀 DEPLOYMENT
-  ↓
+   ↓
 🔄 IMPROVEMENT
+```
 
-📊 GitHub Stats
+</div>
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
 
@@ -302,21 +407,44 @@ Cloud Technologies
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivagamer-dev&layout=compact&theme=tokyonight&hide_border=true" />
 
-<br>
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=Shivagamer-dev&theme=tokyonight&hide_border=true" />
 
 </div>
 
+---
+
+<div align="center">
+
+## ⚡ GitHub Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivagamer-dev&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🐍 Contribution Activity
+
+<img src="https://raw.githubusercontent.com/Shivagamer-dev/Shivagamer-dev/output/github-contribution-grid-snake.svg" width="95%" />
+
+</div>
+
+---
+
+# 🌐 My Portfolio
 
 Explore my interactive developer portfolio to see my:
 
-- 🤖 Machine Learning & AI projects
-- 🌐 Full-Stack applications
-- 📱 Mobile applications
-- 🧠 AI & Generative AI work
-- 🛠️ Technical skillset
-- 🚀 Projects and development journey
+* 🤖 Machine Learning & AI projects
+* 🌐 Full-Stack applications
+* 📱 Mobile applications
+* 🧠 AI & Generative AI work
+* 🛠️ Technical skillset
+* 🚀 Projects and development journey
 
 <div align="center">
 
@@ -324,57 +452,27 @@ Explore my interactive developer portfolio to see my:
 
 </div>
 
-🧩 Core Skillset
+---
 
-Category
+# 🧩 Core Skillset
 
-Skills
+| Category            | Skills                               |
+| ------------------- | ------------------------------------ |
+| 👨‍💻 Programming   | Python, C++, Java, JavaScript        |
+| 🤖 Machine Learning | Scikit-learn, XGBoost, ML Algorithms |
+| 🧠 AI               | Generative AI, LLMs, NLP             |
+| 🌐 Frontend         | React, Vite, Tailwind CSS, HTML, CSS |
+| ⚙️ Backend          | Node.js, Express.js, REST APIs       |
+| 📱 Mobile           | React Native, Expo                   |
+| 🗄️ Databases       | MongoDB, MySQL, Firebase             |
+| 📊 Data Science     | Pandas, NumPy, Matplotlib, Seaborn   |
+| 🔄 Automation       | n8n, API Integrations                |
+| ☁️ Deployment       | Vercel, Render, GitHub               |
+| 🛠️ Tools           | Git, GitHub, VS Code, Docker         |
 
-👨‍💻 Programming
+---
 
-Python, C++, Java, JavaScript
-
-🤖 Machine Learning
-
-Scikit-learn, XGBoost, ML Algorithms
-
-🧠 AI
-
-Generative AI, LLMs, NLP
-
-🌐 Frontend
-
-React, Vite, Tailwind CSS, HTML, CSS
-
-⚙️ Backend
-
-Node.js, Express.js, REST APIs
-
-📱 Mobile
-
-React Native, Expo
-
-🗄️ Databases
-
-MongoDB, MySQL, Firebase
-
-📊 Data Science
-
-Pandas, NumPy, Matplotlib, Seaborn
-
-🔄 Automation
-
-n8n, API Integrations
-
-☁️ Deployment
-
-Vercel, Render, GitHub
-
-🛠️ Tools
-
-Git, GitHub, VS Code, Docker
-
-🤝 Let's Connect
+# 🤝 Let's Connect
 
 I'm open to:
 
@@ -396,24 +494,42 @@ I'm open to:
 
 <div align="center">
 
+<br>
 
+<a href="https://shivagamer-dev-github-io.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
+ 
 
+<a href="https://github.com/Shivagamer-dev">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
+---
+
 <div align="center">
 
-🚀 Build • Learn • Experiment • Deploy
+<br>
 
-Turning ideas into intelligent products.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 
+### 🚀 Build • Learn • Experiment • Deploy
 
+#### Turning ideas into intelligent products.
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/🌐%20PORTFOLIO-Visit%20My%20Website-6366F1?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://shivagamer-dev-github-io.vercel.app/)
 
 <br><br>
 
-[![Portfolio](https://img.shields.io/badge/🌐%20PORTFOLIO-Visit%20My%20Website-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shivagamer-dev-github-io.vercel.app/)
-
 ⭐ Thanks for visiting my profile!
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Shivagamer-dev&label=Profile%20Views&color=6366F1&style=flat-square" />
 
 </div>
