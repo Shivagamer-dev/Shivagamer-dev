@@ -401,8 +401,6 @@ Cloud Technologies
 
 # 📊 GitHub Stats
 
-# 📊 GitHub Stats
-
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shivagamer-dev&theme=tokyonight" height="180"/>
