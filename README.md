@@ -432,10 +432,25 @@ Cloud Technologies
 ## 🐍 Contribution Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shivagamer-dev/Shivagamer-dev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shivagamer-dev/Shivagamer-dev/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Shivagamer-dev/Shivagamer-dev/output/github-contribution-grid-snake.svg" width="95%">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Shivagamer-dev/Shivagamer-dev/gh-pages/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Shivagamer-dev/Shivagamer-dev/gh-pages/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/Shivagamer-dev/Shivagamer-dev/gh-pages/github-contribution-grid-snake.svg"
+    width="95%"
+  />
+
 </picture>
+
+</div>
 
 </div>
 
