@@ -251,7 +251,7 @@ AI-assisted decision systems
 
 ---
 
-# 📱 Mobile Development
+# 📱 Mobile App Development
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react" />
@@ -421,7 +421,7 @@ Cloud Technologies
 
 ## ⚡ GitHub Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivagamer-dev&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivagamer-dev&theme=tokyonight" width="95%"/>
 
 </div>
 
